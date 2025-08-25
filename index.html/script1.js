@@ -1,0 +1,1 @@
+alert('First website coming soon!!')
